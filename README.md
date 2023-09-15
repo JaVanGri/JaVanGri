@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jan van Grimbergen.
-- 👀 I’m interested in ... bioinformatics, optimisation and computational complexity theory.
+- 👀 I’m interested in ... bioinformatics, optimisation and computational complexity theory as well as machine learning.
 - 🌱 I'm currently studying computer science at [Chair of Algorithmic Bioinformatics](https://www.cs.hhu.de/en/research-groups/algorithmic-bioinformatics) ([HHU](https://www.hhu.de/)).
 - 💻 I’m working at the [BMFZ](https://www.bmfz.hhu.de/) in the [MPL](https://www.bmfz.hhu.de/zentrallaboratorien/molecular-proteomics-laboratory-mpl)
 
