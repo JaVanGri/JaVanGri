@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jan van Grimbergen.
+- 👋 Hi, I’m Jan.
 - 👀 I’m interested in bioinformatics, optimization, computational complexity theory, and machine learning.
 - 🌱 I studied computer science at [HHU](https://www.hhu.de/).
 <!---
